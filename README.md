@@ -3,11 +3,12 @@
 <div>
       <div class="js-item-description item-description has-toggle">
           <div class="user-html user-html__with-lazy-load"><p>
-        Teashop –  Green Leaf Tea Shop is a modern and functional html Template best suitable for your Tea Company &amp; Online Tea Shop. Green Leaf Tea Shop has an intuitive visual interface and informative layout that looks wonderful on any platform, since it’s fully responsive. It comes with one unique layout which includes blog page, tons of sections, customization options and features for multiple purposes.It is perfect to  grow upyour bussiness!
+        CHAGUAN –  Online Tea Shop.chaguan has an intuitive visual interface and informative layout that looks wonderful on any platform, since it’s fully responsive. It comes with one unique layout which includes blog page, tons of sections, customization options and features for multiple purposes.It is perfect to  grow upyour bussiness!
 </p>
 <h3 id="item-description__features">Features:</h3>
 <ul>               
-    <li>Build With Bootstrap 3.x</li>             
+    <li>Build With Bootstrap 3.
+         x</li>             
     <li>100% Responsive</li>             
     <li>100% W3C Valid</li>                      
     <li>Clean &amp; Modern Design</li>                
